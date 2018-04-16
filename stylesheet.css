@@ -7,16 +7,19 @@
 .navbar {
 	margin:0;
 	padding-right: 20px;
-  background-color:#e6e6e6;
+  background-color: #deeded;
   height: 100px;
 }
-li.nav-item, a.navbar-brand, a.nav-link{
+li.nav-item{
   height: 100px;
 }
 a.navbar-brand{
 padding-top: 0;
 }
 /* index*/
+body{
+  background-image: url("images/fondo.png");
+}
 .item h3{
   color: black;
 }
@@ -42,7 +45,7 @@ padding-top: 0;
 }
 /* FOOTER*/
 footer{
-  background-color:#e6e6e6;
+  background-color: #deeded;
   height: 550px;
   padding-top: 50px;
 }
@@ -50,7 +53,6 @@ footer{
   margin: 10px 10px 10px 0;
 }
 button {
-  display: block;
   width: 100%;
 }
 .sociales{

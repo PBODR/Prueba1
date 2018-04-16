@@ -1,0 +1,23 @@
+<div class="row seccion1">
+  <div class="col-md-4">
+    <h1>Inicio de talleres de Teatro, Manos Creando, Habilidades Sociales y Grupo de Apoyo para Padres 2016</h1>
+  </div>
+  <div class="col-md-8 taller">
+    <img src="images/taller.jpg" alt="">
+  </div>
+</div>
+
+<footer class="container-fluid text-center">
+  <div class="col-md-6">
+    <ul class="contact">
+      <li class="bold">Contáctanos</li>
+      <li><input type="text" class="form-control" placeholder="Ingresa tu mail..">
+        <button type="button" class="btn btn-default">Enviar</button></li>
+    </ul>
+  </div>
+
+  <div class="col-md-4 embed-responsive embed-responsive-4by3">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6657.584766640616!2d-70.58762652324958!3d-33.4547152237831!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9662cfb64e60558d%3A0x99c07692e6242b73!2zSXJhcnLDoXphdmFsIDQ1NTQsIMORdcOxb2EsIFJlZ2nDs24gTWV0cm9wb2xpdGFuYQ!5e0!3m2!1ses!2scl!4v1523656250522"
+      width="250" height="250" frameborder="0"></iframe>
+  </div>
+</footer>

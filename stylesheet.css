@@ -20,8 +20,8 @@ padding-top: 0;
 body{
   background-image: url("images/fondo.png");
 }
-.item h3{
-  color: black;
+h1, h2, h3, h4, p{
+  color:  #002080;
 }
 .index-noticias{
   padding: 50px 0 50px 0;
